@@ -2,7 +2,7 @@
 
 A collection of all the Game & Watch released by Nintendo.
 
-Repository: [https://github.com/mobilenaut/tricotronic](https://github.com/mobilenaut/tricotronic)
+:globe_with_meridians: Repository: [https://github.com/mobilenaut/tricotronic](https://github.com/mobilenaut/tricotronic)
 
 |                                                               |                                                                |                                                                      |                                                                             |
 | :-----------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
